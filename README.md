@@ -63,7 +63,7 @@ Este projeto reforça:
 
 --- 
 ## Preview
-!(https://github.com/user-attachments/assets/dca00e66-0b7a-4449-872a-56c356b7af15)
+![Preview](https://github.com/user-attachments/assets/dca00e66-0b7a-4449-872a-56c356b7af15)
 ---
 
 
